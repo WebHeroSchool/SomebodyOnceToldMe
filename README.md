@@ -1,7 +1,7 @@
 # SomebodyOnceToldMe
-The world is gonna roll me 
-I ain't the sharpest tool in the shed 
-She was looking kind of dumb with her finger and her thumb 
+The world is gonna roll me<br/>
+I ain't the sharpest tool in the shed<br/>
+She was looking kind of dumb with her finger and her thumb<br/>
 In the shape of an "L" on her forehead 
 Well the years start coming and they don't stop coming
 Fed to the rules and I hit the ground running
